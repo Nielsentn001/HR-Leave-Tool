@@ -1,0 +1,9 @@
+/*
+  These three directives get replaced by Tailwind's generated CSS at build
+  time, in this order: base (resets/defaults), components (reusable class
+  groups, none defined here), utilities (the single-purpose classes like
+  p-8, text-2xl used throughout the app).
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
